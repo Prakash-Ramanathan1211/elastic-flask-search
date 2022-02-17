@@ -1,0 +1,176 @@
+{
+  "gpcCategory": "10005769",
+  "components": [],
+  "customFields": {"legacy": {
+    "inner_pack_count": 3,
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Canned Meat, Chicken, Pre-cooked",
+      "languageCode": "en",
+      "textHTML": "Canned Meat, Chicken, Pre-cooked"
+    }],
+    "inner_pack_container_type": "CAN",
+    "dual_nesting": false,
+    "inner_pack_net_content": 3,
+    "inner_pack_net_content_uom": "OZ"
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "SWANSON",
+  "brandNameInformation": {"brandName": "SWANSON"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:32Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/12/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920533,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: White Chicken Breast With Rib Meat, Water, Contains Less Than 2% Of: Salt, Modified Food Starch, Rice Starch, Sodium Phosphate.",
+    "textHintless": "Ingredients: White Chicken Breast With Rib Meat, Water, Contains Less Than 2% Of: Salt, Modified Food Starch, Rice Starch, Sodium Phosphate.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: White Chicken Breast With Rib Meat, Water, Contains Less Than 2% Of: Salt, Modified Food Starch, Rice Starch, Sodium Phosphate.",
+    "textHTML": "Ingredients: White Chicken Breast With Rib Meat, Water, Contains Less Than 2% Of: Salt, Modified Food Starch, Rice Starch, Sodium Phosphate."
+  }]},
+  "id": 2131552,
+  "assetCreationDate": "2017-09-14T02:32:32Z",
+  "packageDetails": [
+    {
+      "gtin": "00051000183460",
+      "packageLevel": "TRADE_ITEM",
+      "multiFacing": true,
+      "measurements": {
+        "WIDTH": [{
+          "measurementUnitCode": "INH",
+          "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+          "measurement": 2.75
+        }],
+        "HEIGHT": [{
+          "measurementUnitCode": "INH",
+          "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+          "measurement": 4.313
+        }],
+        "DEPTH": [{
+          "measurementUnitCode": "INH",
+          "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+          "measurement": 2.75
+        }],
+        "CONTAINS_COUNT": [{
+          "measurementUnitCode": "EA",
+          "measurementUnitCodeVersion": "multiad1",
+          "measurement": 3
+        }]
+      }
+    },
+    {
+      "packageLevel": "INNER_PACK",
+      "measurements": {"NET_WEIGHT": [{
+        "measurementUnitCode": "OZ",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3
+      }]}
+    }
+  ],
+  "gtin": "00051000183460",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 9
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "PACK",
+  "legacyCategory": "G062",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Great for sandwiches, salads, dips, and much more",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Great for sandwiches, salads, dips, and much more"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Delicious white chicken breast meat",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Delicious white chicken breast meat"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "97% fat free with no preservatives, no MSG added and no artificial flavors",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "97% fat free with no preservatives, no MSG added and no artificial flavors"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Ready to eat",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Ready to eat"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Discover your passion for cooking",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Discover your passion for cooking"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Use Swanson® White Premium Chunk Chicken Breast With Rib Meat In Water as a delicious ingredient for your favorite recipes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Use Swanson® White Premium Chunk Chicken Breast With Rib Meat In Water as a delicious ingredient for your favorite recipes."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Swanson® White Premium Chunk Chicken Breast With Rib Meat in Water is pre-cooked and ready to use for quick and easy everyday meals and sides. Put your family first with delicious white chicken breast meat that's 97% fat free and contains no preservatives and no artificial flavors.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® White Premium Chunk Chicken Breast With Rib Meat in Water is pre-cooked and ready to use for quick and easy everyday meals and sides. Put your family first with delicious white chicken breast meat that's 97% fat free and contains no preservatives and no artificial flavors."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Premium Chicken, Turkey and Pulled Pork are pre-cooked and ready to use for quick and easy everyday meals, from sandwiches and salads to soups and main dishes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Premium Chicken, Turkey and Pulled Pork are pre-cooked and ready to use for quick and easy everyday meals, from sandwiches and salads to soups and main dishes."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "SWANSON",
+    "brandId": 2387080,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Chicken Breast",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Swanson® White Premium Chunk Chicken Breast with Rib Meat in Water, 3 oz., 3 pack",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448189,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "CAUTION:  Metal edges are sharp.",
+    "languageCode": "en",
+    "textHTML": "CAUTION:  Metal edges are sharp."
+  }]}
+}

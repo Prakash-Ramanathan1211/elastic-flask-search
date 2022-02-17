@@ -1,0 +1,157 @@
+{
+  "gpcCategory": "10000201",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Drink, Fruit, Juice",
+      "languageCode": "en",
+      "textHTML": "Drink, Fruit, Juice"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "V8 SPLASH",
+  "brandNameInformation": {"brandName": "V8 SPLASH"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:40Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/12/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920547,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Water, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), High Fructose Corn Syrup, Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Oranges, Pineapples), Contains Less Than 2% Of: Citric Acid, Vitamin C (Ascorbic Acid), Natural Flavoring, Sucralose.",
+    "textHintless": "Ingredients: Water, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), High Fructose Corn Syrup, Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Oranges, Pineapples), Contains Less Than 2% Of: Citric Acid, Vitamin C (Ascorbic Acid), Natural Flavoring, Sucralose.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Water, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), High Fructose Corn Syrup, Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Oranges, Pineapples), Contains Less Than 2% Of: Citric Acid, Vitamin C (Ascorbic Acid), Natural Flavoring, Sucralose.",
+    "textHTML": "Ingredients: Water, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), High Fructose Corn Syrup, Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Oranges, Pineapples), Contains Less Than 2% Of: Citric Acid, Vitamin C (Ascorbic Acid), Natural Flavoring, Sucralose."
+  }]},
+  "id": 2131568,
+  "assetCreationDate": "2017-09-14T02:32:40Z",
+  "packageDetails": [{
+    "gtin": "00051000212580",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.625
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 10.313
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.625
+      }]
+    }
+  }],
+  "gtin": "00051000212580",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZA",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 64
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G140",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Antioxidant vitamins C & A",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Antioxidant vitamins C & A"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "70 calories per serving",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "70 calories per serving"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "30% vitamin A per serving",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "30% vitamin A per serving"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Delicious fruit flavors the whole family can enjoy",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Delicious fruit flavors the whole family can enjoy"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Contains a 15% blend of 4 juices from concentrate, with other natural flavors",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Contains a 15% blend of 4 juices from concentrate, with other natural flavors"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "V8 Splash® Carrot Orange is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8 Splash® Carrot Orange is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "V8 Splash® Carrot Orange is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day. What gives Splash drinks their tastiness? The combination of natural fruit flavors and 5% juice, whirled together for a deliciously refreshing taste.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8 Splash® Carrot Orange is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day. What gives Splash drinks their tastiness? The combination of natural fruit flavors and 5% juice, whirled together for a deliciously refreshing taste."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Here\u2019s a drink that will have everyone in your family saying yum. Deliciously refreshing, V8 Splash® comes in a variety of flavors, from Berry Blend to Mango Peach. Each member of your family is sure to find a personal fave. Made with natural fruit flavors and a 5% blend of juice, you\u2019ll love the burst of flavor in every sip. Fun at snack time, dinnertime, and all those times in between.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Here\u2019s a drink that will have everyone in your family saying yum. Deliciously refreshing, V8 Splash® comes in a variety of flavors, from Berry Blend to Mango Peach. Each member of your family is sure to find a personal fave. Made with natural fruit flavors and a 5% blend of juice, you\u2019ll love the burst of flavor in every sip. Fun at snack time, dinnertime, and all those times in between."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "V8 SPLASH",
+    "brandId": 2387091,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Carrot Orange",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "V8 Splash® Carrot Orange, 64 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448801,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT PURCHASE UNLESS CAP AND NECKBAND ARE INTACT.",
+    "languageCode": "en",
+    "textHTML": "DO NOT PURCHASE UNLESS CAP AND NECKBAND ARE INTACT."
+  }]}
+}

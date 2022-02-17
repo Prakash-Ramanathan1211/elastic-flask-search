@@ -1,0 +1,173 @@
+{
+  "gpcCategory": "10000057",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Alfredo Sauce, Bacon, Cheese Sauce",
+      "languageCode": "en",
+      "textHTML": "Alfredo Sauce, Bacon, Cheese Sauce"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "PREGO",
+  "brandNameInformation": {"brandName": "PREGO"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:33Z",
+  "preparation": [{"preparationMethod": [{
+    "sequence": 1,
+    "preparationInstructions": [{
+      "languageCodeVersion": "1",
+      "text": "STOVE:  Heat over medium heat, stirring often.",
+      "languageCode": "en",
+      "textHTML": "STOVE:  Heat over medium heat, stirring often."
+    }]
+  }]}],
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/15/2017 15:00:40",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920536,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Water, Cream, Butter (Cream, Water, Salt), Parmesan Cheese (Part Skim Milk, Cultures, Salt, Enzymes), Enzyme Modified Egg Yolks (Egg Yolks, Salt, Phospholipase), Modified Food Starch, Hydrogenated Soybean Oil, Contains Less Than 2% Of: Bacon Bits (Bacon [Cured With Water, Salt, Sugar, Natural Smoke Flavoring, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite]), Romano Cheese (Part Skim Cow's Milk, Cultures, Salt, Enzymes), Salt, Sugar, Dehydrated Whey, Flavoring, Sodium Phosphate, Granular And Parmesan Cheese (Milk, Cultures, Salt, Enzymes), Xanthan Gum, Yeast Extract, Black Pepper, Cheddar Cheese (Milk, Cultures, Salt, Enzymes), Lactic Acid, Enzymes, Anhydrous Milkfat.",
+    "textHintless": "Ingredients: Water, Cream, Butter (Cream, Water, Salt), Parmesan Cheese (Part Skim Milk, Cultures, Salt, Enzymes), Enzyme Modified Egg Yolks (Egg Yolks, Salt, Phospholipase), Modified Food Starch, Hydrogenated Soybean Oil, Contains Less Than 2% Of: Bacon Bits (Bacon [Cured With Water, Salt, Sugar, Natural Smoke Flavoring, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite]), Romano Cheese (Part Skim Cow's Milk, Cultures, Salt, Enzymes), Salt, Sugar, Dehydrated Whey, Flavoring, Sodium Phosphate, Granular And Parmesan Cheese (Milk, Cultures, Salt, Enzymes), Xanthan Gum, Yeast Extract, Black Pepper, Cheddar Cheese (Milk, Cultures, Salt, Enzymes), Lactic Acid, Enzymes, Anhydrous Milkfat.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Water, Cream, Butter (Cream, Water, Salt), Parmesan Cheese (Part Skim Milk, Cultures, Salt, Enzymes), Enzyme Modified Egg Yolks (Egg Yolks, Salt, Phospholipase), Modified Food Starch, Hydrogenated Soybean Oil, Contains Less Than 2% Of: Bacon Bits (Bacon [Cured With Water, Salt, Sugar, Natural Smoke Flavoring, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite]), Romano Cheese (Part Skim Cow's Milk, Cultures, Salt, Enzymes), Salt, Sugar, Dehydrated Whey, Flavoring, Sodium Phosphate, Granular And Parmesan Cheese (Milk, Cultures, Salt, Enzymes), Xanthan Gum, Yeast Extract, Black Pepper, Cheddar Cheese (Milk, Cultures, Salt, Enzymes), Lactic Acid, Enzymes, Anhydrous Milkfat.",
+    "textHTML": "Ingredients: Water, Cream, Butter (Cream, Water, Salt), Parmesan Cheese (Part Skim Milk, Cultures, Salt, Enzymes), Enzyme Modified Egg Yolks (Egg Yolks, Salt, Phospholipase), Modified Food Starch, Hydrogenated Soybean Oil, Contains Less Than 2% Of: Bacon Bits (Bacon [Cured With Water, Salt, Sugar, Natural Smoke Flavoring, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite]), Romano Cheese (Part Skim Cow's Milk, Cultures, Salt, Enzymes), Salt, Sugar, Dehydrated Whey, Flavoring, Sodium Phosphate, Granular And Parmesan Cheese (Milk, Cultures, Salt, Enzymes), Xanthan Gum, Yeast Extract, Black Pepper, Cheddar Cheese (Milk, Cultures, Salt, Enzymes), Lactic Acid, Enzymes, Anhydrous Milkfat."
+  }]},
+  "id": 2131555,
+  "assetCreationDate": "2017-09-14T02:32:33Z",
+  "packageDetails": [{
+    "gtin": "00051000197627",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.984
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 5.824
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.984
+      }]
+    }
+  }],
+  "gtin": "00051000197627",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 14.5
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G014",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Made with real bacon!",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Made with real bacon!"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Indulge in silky, smooth flavor",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Indulge in silky, smooth flavor"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "A great addition to red sauces in your meal rotation",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "A great addition to red sauces in your meal rotation"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Use as an ingredient or shortcut for dishes your family will love",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Use as an ingredient or shortcut for dishes your family will love"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Pour on vegetables and watch your family gobble them up",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Pour on vegetables and watch your family gobble them up"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Enjoy this indulgent Flavored with Savory Bacon Alfredo sauce with the bold flavor of real bacon combined with hints of cracked black pepper. For great tasting recipes, visit CampbellsKitchen.com/Prego.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Enjoy this indulgent Flavored with Savory Bacon Alfredo sauce with the bold flavor of real bacon combined with hints of cracked black pepper. For great tasting recipes, visit CampbellsKitchen.com/Prego."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Prego® Flavored with Savory Bacon Alfredo Sauce combines the bold flavor of bacon with hints of black pepper. Enjoy on pasta or with your own recipes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Flavored with Savory Bacon Alfredo Sauce combines the bold flavor of bacon with hints of black pepper. Enjoy on pasta or with your own recipes."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Prego® Flavored with Savory Bacon Alfredo Sauce combines the bold flavor of bacon with hints of cracked black pepper. The bacon flavor will surely add some pizazz to your pasta or other family-pleasing recipes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Flavored with Savory Bacon Alfredo Sauce combines the bold flavor of bacon with hints of cracked black pepper. The bacon flavor will surely add some pizazz to your pasta or other family-pleasing recipes."
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "PREGO",
+    "brandId": 2387094,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "allergens": [{"allergenStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Contains: Egg, Milk/Dairy",
+    "languageCode": "en",
+    "textHTML": "Contains: Egg, Milk/Dairy"
+  }]}],
+  "publishedFlag": false,
+  "variantDescription": "Savory Bacon",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Prego® Flavored with Savory Bacon Alfredo Sauce, 14.5 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448878
+}

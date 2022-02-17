@@ -1,0 +1,166 @@
+{
+  "gpcCategory": "10000057",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Pasta Sauce, Spaghetti Sauce, Tomato Sauce",
+      "languageCode": "en",
+      "textHTML": "Pasta Sauce, Spaghetti Sauce, Tomato Sauce"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "PREGO",
+  "brandNameInformation": {"brandName": "PREGO"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:38Z",
+  "preparation": [{"preparationMethod": [{
+    "sequence": 1,
+    "preparationInstructions": [{
+      "languageCodeVersion": "1",
+      "text": "STOVE:  Heat, stirring occasionally.",
+      "languageCode": "en",
+      "textHTML": "STOVE:  Heat, stirring occasionally."
+    }]
+  }]}],
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/15/2017 14:59:31",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920544,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Canola Oil, Onions, Garlic, Sugar, Contains Less Than 1% Of: Salt, Citric Acid, Basil, Spices, Red Pepper.",
+    "textHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Canola Oil, Onions, Garlic, Sugar, Contains Less Than 1% Of: Salt, Citric Acid, Basil, Spices, Red Pepper.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Canola Oil, Onions, Garlic, Sugar, Contains Less Than 1% Of: Salt, Citric Acid, Basil, Spices, Red Pepper.",
+    "textHTML": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Canola Oil, Onions, Garlic, Sugar, Contains Less Than 1% Of: Salt, Citric Acid, Basil, Spices, Red Pepper."
+  }]},
+  "id": 2131564,
+  "assetCreationDate": "2017-09-14T02:32:38Z",
+  "packageDetails": [{
+    "gtin": "00051000205209",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.361
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 6.516
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.361
+      }]
+    }
+  }],
+  "gtin": "00051000205209",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 24
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G014",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Enjoy the heat of spicy red peppers!",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Enjoy the heat of spicy red peppers!"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Serve up delicious flavor",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Serve up delicious flavor"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Each ½-cup serving provides 40% of your daily vegetables",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Each ½-cup serving provides 40% of your daily vegetables"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Pair with your favorite pasta",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Pair with your favorite pasta"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Use as an ingredient or shortcut for dishes your family will love",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Use as an ingredient or shortcut for dishes your family will love"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Prego® Spicy Red Pepper Italian Sauce will definitely fire up the flavor in your favorite Italian dishes. Enjoy over pasta or as part of your favorite recipes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Spicy Red Pepper Italian Sauce will definitely fire up the flavor in your favorite Italian dishes. Enjoy over pasta or as part of your favorite recipes."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Prego® Spicy Red Pepper Italian Sauce will definitely fire up the flavor in your favorite Italian dishes. Enjoy this bold and spicy sauce over pasta or as part of family-pleasing recipes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Spicy Red Pepper Italian Sauce will definitely fire up the flavor in your favorite Italian dishes. Enjoy this bold and spicy sauce over pasta or as part of family-pleasing recipes."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "PREGO",
+    "brandId": 2387094,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Spicy Red Pepper",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Prego® Spicy Red Pepper Italian Sauce, 24 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448878,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT PURCHASE IF SAFETY BUTTON IS UP.",
+    "languageCode": "en",
+    "textHTML": "DO NOT PURCHASE IF SAFETY BUTTON IS UP."
+  }]}
+}

@@ -1,0 +1,158 @@
+{
+  "gpcCategory": "10000201",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Vegetable Juice, Juice, Tomato",
+      "languageCode": "en",
+      "textHTML": "Vegetable Juice, Juice, Tomato"
+    }],
+    "dual_nesting": true
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "V8",
+  "brandNameInformation": {"brandName": "V8"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:29Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/13/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920526,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Reconstituted Vegetable Juice Blend (Water And Concentrated Juices Of Tomatoes, Carrots, Celery, Beets, Parsley, Lettuce, Watercress, Spinach), Contains Less Than 2% Of: Salt, Vitamin C (Ascorbic Acid), Natural Flavoring, Citric Acid.",
+    "textHintless": "Ingredients: Reconstituted Vegetable Juice Blend (Water And Concentrated Juices Of Tomatoes, Carrots, Celery, Beets, Parsley, Lettuce, Watercress, Spinach), Contains Less Than 2% Of: Salt, Vitamin C (Ascorbic Acid), Natural Flavoring, Citric Acid.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Reconstituted Vegetable Juice Blend (Water And Concentrated Juices Of Tomatoes, Carrots, Celery, Beets, Parsley, Lettuce, Watercress, Spinach), Contains Less Than 2% Of: Salt, Vitamin C (Ascorbic Acid), Natural Flavoring, Citric Acid.",
+    "textHTML": "Ingredients: Reconstituted Vegetable Juice Blend (Water And Concentrated Juices Of Tomatoes, Carrots, Celery, Beets, Parsley, Lettuce, Watercress, Spinach), Contains Less Than 2% Of: Salt, Vitamin C (Ascorbic Acid), Natural Flavoring, Citric Acid."
+  }]},
+  "id": 2131544,
+  "assetCreationDate": "2017-09-14T02:32:29Z",
+  "packageDetails": [{
+    "gtin": "00051000153159",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.625
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.813
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.625
+      }]
+    }
+  }],
+  "gtin": "00051000153159",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZA",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 11.5
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "CAN",
+  "legacyCategory": "G142",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "An easy way get your veggies every day! 2 full servings of vegetables in every 11.5 oz. can*\n \n\n*11.5 fl. oz. juice provides more than 2 servings (1/2 cup each) of vegetables. The 2010 Dietary Guidelines for Americans recommend 2 1/2 cups of a variety of vegetables per day for a 2,000 calorie diet.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "An easy way get your veggies every day! 2 full servings of vegetables in every 11.5 oz. can*\n \n\n*11.5 fl. oz. juice provides more than 2 servings (1/2 cup each) of vegetables. The 2010 Dietary Guidelines for Americans recommend 2 1/2 cups of a variety of vegetables per day for a 2,000 calorie diet."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "100% vegetable juice\u2014an excellent source of vitamins A & C",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "100% vegetable juice\u2014an excellent source of vitamins A & C"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "No added sugar,* and no artificial colors, flavors or preservatives\n\n\n*Not a low-calorie food\u2014see nutrition information panel for sugar and calorie content",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "No added sugar,* and no artificial colors, flavors or preservatives\n\n\n*Not a low-calorie food\u2014see nutrition information panel for sugar and calorie content"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "60 calories per can",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "60 calories per can"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Gluten Free",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Gluten Free"
+    },
+    {
+      "sequence": 6,
+      "languageCodeVersion": "1",
+      "text": "Original",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Original"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "V8® 100% Vegetable Juice. Trusted since 1933 for providing the goodness of vegetable nutrition and great taste.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8® 100% Vegetable Juice. Trusted since 1933 for providing the goodness of vegetable nutrition and great taste."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "V8® 100% Vegetable Juice. The trusted, nutritious blend of veggies you know and love. With 2 full servings of veggies in every 11.5 oz. can\u2014and no added sugar*, artificial colors, flavors or preservatives\u2014there's a world of goodness in every sip.\n\n *Not a low-calorie food\u2014see nutrition information panel for sugar and calorie content",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8® 100% Vegetable Juice. The trusted, nutritious blend of veggies you know and love. With 2 full servings of veggies in every 11.5 oz. can\u2014and no added sugar*, artificial colors, flavors or preservatives\u2014there's a world of goodness in every sip.\n\n *Not a low-calorie food\u2014see nutrition information panel for sugar and calorie content"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "V8® was born out of the idea that great taste and great nutrition can go hand in hand. For over 8 decades, that idea has thrived. Because getting the veggies you need in the drink you love fuels a day well lived. V8®. There's nothing like the original. Trusted since 1933.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8® was born out of the idea that great taste and great nutrition can go hand in hand. For over 8 decades, that idea has thrived. Because getting the veggies you need in the drink you love fuels a day well lived. V8®. There's nothing like the original. Trusted since 1933."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "V8",
+    "brandId": 2387076,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Vegetable",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "V8® Original 100% Vegetable Juice, 11.5 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448157
+}

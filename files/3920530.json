@@ -1,0 +1,180 @@
+{
+  "gpcCategory": "10000262",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Tomato soup, Tomato Bisque, Tomato & Basil",
+      "languageCode": "en",
+      "textHTML": "Tomato soup, Tomato Bisque, Tomato & Basil"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "SLOW KETTLE",
+  "brandNameInformation": {"brandName": "CAMPBELL'S SLOW KETTLE"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:31Z",
+  "preparation": [{"preparationMethod": [{
+    "sequence": 1,
+    "preparationInstructions": [{
+      "languageCodeVersion": "1",
+      "text": "STOVE:  Pour soup into saucepan. Heat, stirring occasionally.\nMICROWAVE: Microwave ovens vary. Time is approximate. Uneven microwave heating may cause popping, movement of the container and/or splattering. 1. Remove and discard plastic cap. Poke several holes in plastic film with fork to vent. 2. Microwave on HIGH 1 1/2 to 2 min. or until hot. 3. Careful, leave in microwave for 1 min. Plastic film and bowl may be hot. Grasp bowl on sides when removing from microwave. Carefully remove plastic film. Stir before serving.",
+      "languageCode": "en",
+      "textHTML": "STOVE:  Pour soup into saucepan. Heat, stirring occasionally.\nMICROWAVE: Microwave ovens vary. Time is approximate. Uneven microwave heating may cause popping, movement of the container and/or splattering. 1. Remove and discard plastic cap. Poke several holes in plastic film with fork to vent. 2. Microwave on HIGH 1 1/2 to 2 min. or until hot. 3. Careful, leave in microwave for 1 min. Plastic film and bowl may be hot. Grasp bowl on sides when removing from microwave. Carefully remove plastic film. Stir before serving."
+    }]
+  }]}],
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/12/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920530,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Tomato Puree (Water, Tomato Paste), Cream, Diced Tomatoes In Tomato Juice, Sugar, Skim Milk, Modified Food Starch, Contains Less Than 2% Of: Butter (Cream), Cream*, Salt, Wheat Flour, Onions*, Extra Virgin Olive Oil, Flavoring, Whey Protein Concentrate, Citric Acid, Basil, Tomatoes*, Spices, Sunflower Lecithin, Sunflower Oil, Yeast Extract.\n\n\n\n*Dried.",
+    "textHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Cream, Diced Tomatoes In Tomato Juice, Sugar, Skim Milk, Modified Food Starch, Contains Less Than 2% Of: Butter (Cream), Cream*, Salt, Wheat Flour, Onions*, Extra Virgin Olive Oil, Flavoring, Whey Protein Concentrate, Citric Acid, Basil, Tomatoes*, Spices, Sunflower Lecithin, Sunflower Oil, Yeast Extract.\n\n\n\n*Dried.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Cream, Diced Tomatoes In Tomato Juice, Sugar, Skim Milk, Modified Food Starch, Contains Less Than 2% Of: Butter (Cream), Cream*, Salt, Wheat Flour, Onions*, Extra Virgin Olive Oil, Flavoring, Whey Protein Concentrate, Citric Acid, Basil, Tomatoes*, Spices, Sunflower Lecithin, Sunflower Oil, Yeast Extract.\n\n\n\n*Dried.",
+    "textHTML": "Ingredients: Tomato Puree (Water, Tomato Paste), Cream, Diced Tomatoes In Tomato Juice, Sugar, Skim Milk, Modified Food Starch, Contains Less Than 2% Of: Butter (Cream), Cream*, Salt, Wheat Flour, Onions*, Extra Virgin Olive Oil, Flavoring, Whey Protein Concentrate, Citric Acid, Basil, Tomatoes*, Spices, Sunflower Lecithin, Sunflower Oil, Yeast Extract.\n\n\n\n*Dried."
+  }]},
+  "id": 2131549,
+  "assetCreationDate": "2017-09-14T02:32:31Z",
+  "packageDetails": [{
+    "gtin": "00051000175472",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.063
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.25
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.063
+      }]
+    }
+  }],
+  "gtin": "00051000175472",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 15.5
+  }]},
+  "lastModifiedDate": "2018-02-21T12:20:39Z",
+  "legacyLanguageCode": "en",
+  "containerType": "CUP",
+  "legacyCategory": "G080",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Smooth and rich in tomato flavor with a hint of basil",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Smooth and rich in tomato flavor with a hint of basil"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "No preservatives added",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "No preservatives added"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Available in easy-to-open, microwave-safe bowls that are perfect for work, school, or on the go",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Available in easy-to-open, microwave-safe bowls that are perfect for work, school, or on the go"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Carefully crafted by Campbell's chefs",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Carefully crafted by Campbell's chefs"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Created with authentic ingredients",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Created with authentic ingredients"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Made With Patience, Not Preservatives.® \nEverything good takes time. Our Slow Kettle® Style line has high-quality ingredients and delicious flavor combinations that deliver an experience that you will want to slow down and savor.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Made With Patience, Not Preservatives.® \nEverything good takes time. Our Slow Kettle® Style line has high-quality ingredients and delicious flavor combinations that deliver an experience that you will want to slow down and savor."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque is smooth and rich in flavor of tomato and a hint of sweet basil.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque is smooth and rich in flavor of tomato and a hint of sweet basil."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque is smooth and rich in flavor of tomato and a hint of sweet basil.  The restaurant-quality taste will make you want slow down and savor each and every spoonful.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque is smooth and rich in flavor of tomato and a hint of sweet basil.  The restaurant-quality taste will make you want slow down and savor each and every spoonful."
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Campbell's® Slow Kettle® Style soups are carefully crafted by our chefs. Made With Patience, Not Preservatives.® We simmer the perfect combination of authentic ingredients with indulgent tastes to create a mix of unique flavors that are inspired by the art of cooking. You\u2019ll want to savor every spoonful of these restaurant-quality soups in the comfort of your own home. \u200bSlow Kettle®\u200b \u200b Style soups are worth slowing down for.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Campbell's® Slow Kettle® Style soups are carefully crafted by our chefs. Made With Patience, Not Preservatives.® We simmer the perfect combination of authentic ingredients with indulgent tastes to create a mix of unique flavors that are inspired by the art of cooking. You\u2019ll want to savor every spoonful of these restaurant-quality soups in the comfort of your own home. \u200bSlow Kettle®\u200b \u200b Style soups are worth slowing down for."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "CAMPBELL'S SLOW KETTLE",
+    "brandId": 2392159,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "allergens": [{"allergenStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Contains: Milk/Dairy, Wheat",
+    "languageCode": "en",
+    "textHTML": "Contains: Milk/Dairy, Wheat"
+  }]}],
+  "publishedFlag": false,
+  "variantDescription": "Tomato & Basil",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Campbell's® Slow Kettle® Style Tomato & Sweet Basil Bisque, 15.5 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 7143480,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "Do not reuse or reheat bowl.",
+    "languageCode": "en",
+    "textHTML": "Do not reuse or reheat bowl."
+  }]}
+}

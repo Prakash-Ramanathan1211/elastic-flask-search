@@ -1,0 +1,165 @@
+{
+  "gpcCategory": "10000050",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Beef Broth, Beef, Soup",
+      "languageCode": "en",
+      "textHTML": "Beef Broth, Beef, Soup"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "SWANSON",
+  "brandNameInformation": {"brandName": "SWANSON"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:35Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "01/03/2018 14:25:17",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920539,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Beef Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Carrots, Celery, Onions.",
+    "textHintless": "Ingredients: Beef Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Carrots, Celery, Onions.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Beef Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Carrots, Celery, Onions.",
+    "textHTML": "Ingredients: Beef Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Carrots, Celery, Onions."
+  }]},
+  "id": 2131558,
+  "assetCreationDate": "2017-09-14T02:32:35Z",
+  "packageDetails": [{
+    "gtin": "00051000198808",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.938
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 7.375
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 4.5
+      }]
+    }
+  }],
+  "gtin": "00051000198808",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 48
+  }]},
+  "lastModifiedDate": "2018-01-17T13:31:25Z",
+  "legacyLanguageCode": "en",
+  "containerType": "CARTON",
+  "legacyCategory": "G081",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Crafted with high-quality beef stock that's been simmered with vegetables picked at the peak of freshness",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Crafted with high-quality beef stock that's been simmered with vegetables picked at the peak of freshness"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "100% natural, 100% fat free, gluten free",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "100% natural, 100% fat free, gluten free"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "No MSG added*, no preservatives or artificial flavors\n\n*Except for a small amount of glutamate that naturally occurs in yeast extract",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "No MSG added*, no preservatives or artificial flavors\n\n*Except for a small amount of glutamate that naturally occurs in yeast extract"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "For recipe ideas, SwansonBroth.com",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "For recipe ideas, SwansonBroth.com"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Packaged in a resealable twist-cap carton",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Packaged in a resealable twist-cap carton"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Swanson® is made from simple, high-quality ingredients you can recognize. Our beef is sourced from farms we trust, and we select the finest vegetables and spices, picked at the peak of freshness. It starts with real beef and bones, then we cook our broths and stocks to perfection to deliver a unique balance of flavor. Use Swanson Broth to add flavor to soups, rice, potatoes, vegetables and stuffing. Or moisten leftovers before reheating.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® is made from simple, high-quality ingredients you can recognize. Our beef is sourced from farms we trust, and we select the finest vegetables and spices, picked at the peak of freshness. It starts with real beef and bones, then we cook our broths and stocks to perfection to deliver a unique balance of flavor. Use Swanson Broth to add flavor to soups, rice, potatoes, vegetables and stuffing. Or moisten leftovers before reheating."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Swanson®  Beef Broth is crafted from high-quality beef and vegetables picked at peak freshness\u2014all of which are cooked perfection to deliver a delicious balanced blend of flavor.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson®  Beef Broth is crafted from high-quality beef and vegetables picked at peak freshness\u2014all of which are cooked perfection to deliver a delicious balanced blend of flavor."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Beef Broth is crafted from high-quality beef and vegetables picked at the peak of freshness that are cooked perfection to deliver a balanced blend of delicious flavor to your recipe. Packaged in a resealable twist-cap carton, get passionate in the kitchen with our all-natural and create sensational beef soup and other great recipes by keeping our trustworthy broth on hand. The best ingredients make the best dishes.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Beef Broth is crafted from high-quality beef and vegetables picked at the peak of freshness that are cooked perfection to deliver a balanced blend of delicious flavor to your recipe. Packaged in a resealable twist-cap carton, get passionate in the kitchen with our all-natural and create sensational beef soup and other great recipes by keeping our trustworthy broth on hand. The best ingredients make the best dishes."
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Broth is made from simple, high-quality ingredients you can recognize. Our beef is sourced from farms we trust, and we select the finest vegetables and spices, picked at the peak of freshness. We start with real beef and bones, then we cook our broths to perfection to deliver a unique balance of flavor. Use our trustworthy broth to add flavor to soups, rice, potatoes, vegetables and stuffing. The best ingredients make the best dishes. Swanson\u2014 it's why you cook and stay confident in the kitchen!",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Broth is made from simple, high-quality ingredients you can recognize. Our beef is sourced from farms we trust, and we select the finest vegetables and spices, picked at the peak of freshness. We start with real beef and bones, then we cook our broths to perfection to deliver a unique balance of flavor. Use our trustworthy broth to add flavor to soups, rice, potatoes, vegetables and stuffing. The best ingredients make the best dishes. Swanson\u2014 it's why you cook and stay confident in the kitchen!"
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "SWANSON",
+    "brandId": 2387080,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Beef",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Swanson® Beef Broth, 48 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448189,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT MICROWAVE IN CARTON.",
+    "languageCode": "en",
+    "textHTML": "DO NOT MICROWAVE IN CARTON."
+  }]}
+}

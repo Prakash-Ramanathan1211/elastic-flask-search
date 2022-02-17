@@ -1,0 +1,164 @@
+{
+  "gpcCategory": "10000050",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Chicken Broth, Broth, Soup",
+      "languageCode": "en",
+      "textHTML": "Chicken Broth, Broth, Soup"
+    }],
+    "dual_nesting": false
+  }},
+  "nationalBillingFlag": true,
+  "brandNameInformation": {"brandName": "SWANSON"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:39Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/12/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920546,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Chicken Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate.",
+    "textHintless": "Ingredients: Chicken Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Chicken Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate.",
+    "textHTML": "Ingredients: Chicken Stock, Contains Less Than 2% Of: Salt, Natural Flavoring, Yeast Extract, Water, Carrot Juice Concentrate, Celery Juice Concentrate, Onion Juice Concentrate."
+  }]},
+  "id": 2131567,
+  "assetCreationDate": "2017-09-14T02:32:39Z",
+  "packageDetails": [{
+    "gtin": "00051000210296",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.465
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 7.5
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.465
+      }]
+    }
+  }],
+  "gtin": "00051000210296",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 24
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G081",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Made from simple, high-quality ingredients you can recognize",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Made from simple, high-quality ingredients you can recognize"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Crafted with real farm-sourced chicken and vegetables that are picked at peak freshness",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Crafted with real farm-sourced chicken and vegetables that are picked at peak freshness"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "100% natural, fat free, gluten free",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "100% natural, fat free, gluten free"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Easy to pour bottle with measure strip\u2014no cups needed!",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Easy to pour bottle with measure strip\u2014no cups needed!"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "No MSG added*, preservatives or artificial flavorings\n\n\n*Except small amount of glutamate occurs naturally in yeast extract",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "No MSG added*, preservatives or artificial flavorings\n\n\n*Except small amount of glutamate occurs naturally in yeast extract"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Swanson® is made from simple, high-quality ingredients you can recognize. Our chicken is sourced from farms we trust and we select the finest vegetables and spices, picked at the peak of freshness. It starts with real chicken and bones, then we cook our broths and stocks to perfection to deliver a unique balance of flavor.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® is made from simple, high-quality ingredients you can recognize. Our chicken is sourced from farms we trust and we select the finest vegetables and spices, picked at the peak of freshness. It starts with real chicken and bones, then we cook our broths and stocks to perfection to deliver a unique balance of flavor."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Natural Goodness™ 100% Natural Chicken Broth features the perfectly balanced flavors of chicken, vegetables and seasonings with 1/3 less sodium than our regular broth.*\n\n\n\n*Regular Swanson® Chicken Broth contains 860 mg of sodium per serving.This product contains 570 mg of sodium per serving.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Natural Goodness™ 100% Natural Chicken Broth features the perfectly balanced flavors of chicken, vegetables and seasonings with 1/3 less sodium than our regular broth.*\n\n\n\n*Regular Swanson® Chicken Broth contains 860 mg of sodium per serving.This product contains 570 mg of sodium per serving."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Natural Goodness™ 100% Natural Chicken Broth is packed with the perfectly balanced flavors of farm-grown chicken, peak season-picked vegetables and high-quality seasonings with 1/3 less sodium than our regular broth.* Get passionate in the kitchen and create sensational chicken soup and other great recipes by keeping our trustworthy broth on hand.\n\n\n*Regular Swanson® Chicken Broth contains 860 mg of sodium per serving.This product contains 570 mg of sodium per serving.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Natural Goodness™ 100% Natural Chicken Broth is packed with the perfectly balanced flavors of farm-grown chicken, peak season-picked vegetables and high-quality seasonings with 1/3 less sodium than our regular broth.* Get passionate in the kitchen and create sensational chicken soup and other great recipes by keeping our trustworthy broth on hand.\n\n\n*Regular Swanson® Chicken Broth contains 860 mg of sodium per serving.This product contains 570 mg of sodium per serving."
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Swanson® Broth is made from simple, high-quality ingredients you can recognize. Our chicken is sourced from farms we trust and we select the finest vegetables, picked at the peak of freshness. We start with real chicken and bones, then we cook our broths to perfection to deliver a unique balance of flavor. Use our trustworthy broth to add flavor to soups, rice, potatoes, vegetables and stuffing. The best ingredients make the best dishes. Swanson \u2014it's why you cook and stay confident in the kitchen!",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Swanson® Broth is made from simple, high-quality ingredients you can recognize. Our chicken is sourced from farms we trust and we select the finest vegetables, picked at the peak of freshness. We start with real chicken and bones, then we cook our broths to perfection to deliver a unique balance of flavor. Use our trustworthy broth to add flavor to soups, rice, potatoes, vegetables and stuffing. The best ingredients make the best dishes. Swanson \u2014it's why you cook and stay confident in the kitchen!"
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "SWANSON",
+    "brandId": 2387080,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Chicken",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Swanson® Natural Goodness™ 100% Natural Chicken Broth, 24 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448189,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT DILUTE.",
+    "languageCode": "en",
+    "textHTML": "DO NOT DILUTE."
+  }]}
+}

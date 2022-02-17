@@ -1,0 +1,157 @@
+{
+  "gpcCategory": "10000201",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Drink, Fruit, Juice",
+      "languageCode": "en",
+      "textHTML": "Drink, Fruit, Juice"
+    }],
+    "dual_nesting": true
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "V8 SPLASH",
+  "brandNameInformation": {"brandName": "V8 SPLASH"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:28Z",
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "09/12/2017 00:00:00",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920524,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Water, High Prakash Corn Syrup, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), Contains Less Than 2% Of: Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Pineapples, Kiwis, Limes), Malic Acid, Natural Flavoring, Vitamin C (Ascorbic Acid), Mango Puree, Sucralose.",
+    "textHintless": "Ingredients: Water, High Fructose Corn Syrup, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), Contains Less Than 2% Of: Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Pineapples, Kiwis, Limes), Malic Acid, Natural Flavoring, Vitamin C (Ascorbic Acid), Mango Puree, Sucralose.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Water, High Fructose Corn Syrup, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), Contains Less Than 2% Of: Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Pineapples, Kiwis, Limes), Malic Acid, Natural Flavoring, Vitamin C (Ascorbic Acid), Mango Puree, Sucralose.",
+    "textHTML": "Ingredients: Water, High Fructose Corn Syrup, Reconstituted Vegetable Juice (Water And Concentrated Juice Of Carrots), Contains Less Than 2% Of: Reconstituted Fruit Juices (Water And Concentrated Juices Of Apples, Pineapples, Kiwis, Limes), Malic Acid, Natural Flavoring, Vitamin C (Ascorbic Acid), Mango Puree, Sucralose."
+  }]},
+  "id": 2131542,
+  "assetCreationDate": "2017-09-14T02:32:28Z",
+  "packageDetails": [{
+    "gtin": "00051000146540",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.81
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 6.754
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 2.81
+      }]
+    }
+  }],
+  "gtin": "00051000146540",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZA",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 16
+  }]},
+  "lastModifiedDate": "2017-11-03T14:07:38Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G140",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Antioxidant vitamins A&C",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Antioxidant vitamins A&C"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "70 calories per serving",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "70 calories per serving"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Gluten Free",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Gluten Free"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Delicious  fruit flavors the whole family can enjoy",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Delicious  fruit flavors the whole family can enjoy"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Contains a 5% blend of 5 juices and mango purée from concentrate",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Contains a 5% blend of 5 juices and mango purée from concentrate"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "V8 Splash® Tropical Blend is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8 Splash® Tropical Blend is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "V8 Splash® Tropical Blend is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day. What gives Splash drinks their tastiness? The combination of natural fruit flavors and 5% juice, whirled together for a deliciously refreshing taste.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "V8 Splash® Tropical Blend is the perfect thirst-quencher for your whole family. So fruity and delicious, it will juice up their day. What gives Splash drinks their tastiness? The combination of natural fruit flavors and 5% juice, whirled together for a deliciously refreshing taste."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Here\u2019s a drink that will have everyone in your family saying yum. Deliciously refreshing, V8 Splash® comes in a variety of flavors, from Berry Blend to Mango Peach. Each member of your family is sure to find a personal fave. Made with natural fruit flavors and a 5% blend of juice, you\u2019ll love the burst of flavor in every sip. Fun at snack time, dinnertime, and all those times in between.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Here\u2019s a drink that will have everyone in your family saying yum. Deliciously refreshing, V8 Splash® comes in a variety of flavors, from Berry Blend to Mango Peach. Each member of your family is sure to find a personal fave. Made with natural fruit flavors and a 5% blend of juice, you\u2019ll love the burst of flavor in every sip. Fun at snack time, dinnertime, and all those times in between."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "V8 SPLASH",
+    "brandId": 2387091,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Tropical Blend",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "V8 Splash® Tropical Blend, 16 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448801,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT PURCHASE UNLESS CAP AND NECKBAND ARE INTACT.",
+    "languageCode": "en",
+    "textHTML": "DO NOT PURCHASE UNLESS CAP AND NECKBAND ARE INTACT."
+  }]}
+}

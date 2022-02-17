@@ -1,0 +1,166 @@
+{
+  "gpcCategory": "10000057",
+  "components": [],
+  "customFields": {"legacy": {
+    "keywords": [{
+      "languageCodeVersion": "1",
+      "text": "Pasta Sauce, Spaghetti Sauce, Tomato Sauce",
+      "languageCode": "en",
+      "textHTML": "Pasta Sauce, Spaghetti Sauce, Tomato Sauce"
+    }],
+    "dual_nesting": true
+  }},
+  "nationalBillingFlag": true,
+  "divisionName": "PREGO",
+  "brandNameInformation": {"brandName": "PREGO"},
+  "productVariantDescription": "kwikee uploaded",
+  "productUpdateDate": "2017-09-14T02:32:30Z",
+  "preparation": [{"preparationMethod": [{
+    "sequence": 1,
+    "preparationInstructions": [{
+      "languageCodeVersion": "1",
+      "text": "STOVE:  Heat, stirring occasionally.",
+      "languageCode": "en",
+      "textHTML": "STOVE:  Heat, stirring occasionally."
+    }]
+  }]}],
+  "profileOnCenshareFlag": false,
+  "lastPublishDate": "01/18/2018 13:12:58",
+  "targetMarket": "840",
+  "legacySystem": "kwikee",
+  "assetId": 3920529,
+  "ingredients": {"ingredientStatement": [{
+    "languageCodeVersion": "1",
+    "text": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Sugar, Canola Oil, Contains Less Than 1% Of: Salt, Dehydrated Onions, Spice, Citric Acid, Dehydrated Garlic, Lower Sodium Sea Salt, Onion Extract, Garlic Extract.",
+    "textHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Sugar, Canola Oil, Contains Less Than 1% Of: Salt, Dehydrated Onions, Spice, Citric Acid, Dehydrated Garlic, Lower Sodium Sea Salt, Onion Extract, Garlic Extract.",
+    "languageCode": "en",
+    "textHTMLHintless": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Sugar, Canola Oil, Contains Less Than 1% Of: Salt, Dehydrated Onions, Spice, Citric Acid, Dehydrated Garlic, Lower Sodium Sea Salt, Onion Extract, Garlic Extract.",
+    "textHTML": "Ingredients: Tomato Puree (Water, Tomato Paste), Diced Tomatoes In Tomato Juice, Sugar, Canola Oil, Contains Less Than 1% Of: Salt, Dehydrated Onions, Spice, Citric Acid, Dehydrated Garlic, Lower Sodium Sea Salt, Onion Extract, Garlic Extract."
+  }]},
+  "id": 2131548,
+  "assetCreationDate": "2017-09-14T02:32:30Z",
+  "packageDetails": [{
+    "gtin": "00051000173454",
+    "packageLevel": "TRADE_ITEM",
+    "multiFacing": true,
+    "measurements": {
+      "WIDTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.361
+      }],
+      "HEIGHT": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 6.516
+      }],
+      "DEPTH": [{
+        "measurementUnitCode": "INH",
+        "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+        "measurement": 3.361
+      }]
+    }
+  }],
+  "gtin": "00051000173454",
+  "quantity": {"netContent": [{
+    "measurementUnitCode": "OZ",
+    "measurementUnitCodeVersion": "GS1 US Foodservice 1.3",
+    "measurement": 23.5
+  }]},
+  "lastModifiedDate": "2018-01-18T13:12:58Z",
+  "legacyLanguageCode": "en",
+  "containerType": "BOTTLE",
+  "legacyCategory": "G012",
+  "productText": [
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Serve up delicious flavor",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Serve up delicious flavor"
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Enjoy sweet, vine-ripened tomato taste with flavorful herbs and seasonings",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Enjoy sweet, vine-ripened tomato taste with flavorful herbs and seasonings"
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Each ½-cup serving provides 40% of your daily vegetables",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Each ½-cup serving provides 40% of your daily vegetables"
+    },
+    {
+      "sequence": 4,
+      "languageCodeVersion": "1",
+      "text": "Delicious on your favorite pasta",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Delicious on your favorite pasta"
+    },
+    {
+      "sequence": 5,
+      "languageCodeVersion": "1",
+      "text": "Use as an ingredient or shortcut for dishes your family will love",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_BULLET",
+      "textHTML": "Use as an ingredient or shortcut for dishes your family will love"
+    },
+    {
+      "sequence": 1,
+      "languageCodeVersion": "1",
+      "text": "Prego® Heart Smart™ Traditional Italian Sauce gives you the flavor of vine-ripened tomatoes balanced with savory seasonings. Plus, it\u2019s certified by the American Heart Association.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Heart Smart™ Traditional Italian Sauce gives you the flavor of vine-ripened tomatoes balanced with savory seasonings. Plus, it\u2019s certified by the American Heart Association."
+    },
+    {
+      "sequence": 2,
+      "languageCodeVersion": "1",
+      "text": "Prego® Heart Smart™ Traditional Italian Sauce gives you all the rich, sweet flavor of vine-ripened tomatoes balanced with savory herbs and seasonings. Plus, it\u2019s certified by the American Heart Association. Perfect as is or use it as a base for your own pasta sauce.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Heart Smart™ Traditional Italian Sauce gives you all the rich, sweet flavor of vine-ripened tomatoes balanced with savory herbs and seasonings. Plus, it\u2019s certified by the American Heart Association. Perfect as is or use it as a base for your own pasta sauce."
+    },
+    {
+      "sequence": 3,
+      "languageCodeVersion": "1",
+      "text": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love.",
+      "languageCode": "en",
+      "type": "VENDOR_MARKETING_STATEMENT",
+      "textHTML": "Prego® Italian sauces are made with sweet vine-ripened tomatoes and savory herbs and seasonings you can taste in every bite. Whether you\u2019re in the mood for a zesty tomato sauce or a rich, creamy Alfredo sauce\u2014Prego brings irresistible taste your whole family will love."
+    }
+  ],
+  "version": "Vendor Supplied",
+  "brandAsset": {
+    "brandName": "PREGO",
+    "brandId": 2387094,
+    "parentManufacturerAsset": {
+      "manufacturerName": "CAMPBELL SOUP COMPANY",
+      "manufacturerId": 2380765
+    }
+  },
+  "publishedFlag": false,
+  "variantDescription": "Heart Smart™ Traditional",
+  "legacyLanguageCodeVersion": "1",
+  "customProductName": [{
+    "languageCodeVersion": "1",
+    "text": "Prego® Heart Smart™ Traditional Italian Sauce, 23.5 oz.",
+    "languageCode": "en"
+  }],
+  "needsQcFlag": true,
+  "kwiktrakBrandId": 448878,
+  "claimsEndorsements": {"warningStatement": [{
+    "languageCodeVersion": "1",
+    "index": 1,
+    "text": "DO NOT PURCHASE IF SAFETY BUTTON IS UP.",
+    "languageCode": "en",
+    "textHTML": "DO NOT PURCHASE IF SAFETY BUTTON IS UP."
+  }]}
+}
